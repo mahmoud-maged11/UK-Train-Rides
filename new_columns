@@ -1,0 +1,12 @@
+- Time period -> [Dawn, morning, noon, after noon, night, late night]
+- latitude and longitude for each station -> 
+- journey id -> to calc how many journey id and be able to make analysis rquires journey id 
+- departure hour -> extracted from departure time 
+- departure minute -> extracted from departure time
+- purchase hour -> extracted from date of purchase
+- old price -> price before any discount calculated from price column
+- refund -> for each customer requested a refund we put the price in this column 
+- discount -> the difference between old price and price
+- journey day -> extracted from date of journey 
+- month -> extracted from date of journey
+- km -> the distance from departure station and arrival station calculated using the latitude and longitude

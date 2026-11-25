@@ -1,0 +1,42 @@
+# Virtual Envronment folder
+venv/
+
+# Log files
+*.log
+
+*idea/
+*.venv
+
+.idea/
+
+# ملفات النظام
+.DS_Store
+Thumbs.db
+
+# ملفات محررات النص
+*.swp
+*.swo
+
+# مجلدات IDE
+.vscode/
+.idea/
+
+# ملفات بايثون المؤقتة
+__pycache__/
+*.pyc
+
+venv/
+.env/
+.venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
